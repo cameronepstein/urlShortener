@@ -1,6 +1,6 @@
 # URL Shortener Tech Test
 
-Life is way too short to type out entire URLs. No-one on the internet has ever come up with a sane way of shortening URLs, especially not bit.ly, goo.gl or anything similar. Therefore, we want you to build your very own URL shortener and disrupt this 10x growth market.
+Typing out entire URLs is inconvenient. Companies like bit.ly (hint hint) have provided us with services to make this problem go away, We want you to build your very own URL shortener and disrupt this 10x growth market.
 
 ## Specification
 
